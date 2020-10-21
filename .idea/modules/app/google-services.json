@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "187115575445",
+    "firebase_url": "https://picsbag-a6ff4.firebaseio.com",
+    "project_id": "picsbag-a6ff4",
+    "storage_bucket": "picsbag-a6ff4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187115575445:android:24dc2c40a5ccc06d92239c",
+        "android_client_info": {
+          "package_name": "com.filenber.pics_bag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187115575445-rptvb4rmhag4u67drg3npdqil5fttnks.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.filenber.pics_bag",
+            "certificate_hash": "7656b64f93ab724e282a53ecd7f5354da20b3072"
+          }
+        },
+        {
+          "client_id": "187115575445-36apac13n5l69k78amrfqj27idro6qs5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNKTOqynHpH5BDo3dDRQl8FIoYzLvorOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187115575445-36apac13n5l69k78amrfqj27idro6qs5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
